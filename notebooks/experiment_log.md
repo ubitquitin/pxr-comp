@@ -27,3 +27,25 @@
 - Create an ensembele between two separately trained models (split by pEC450 = 4.5) into a high pEC450 and low pEC450 model(s) (shouldnt thsi be emax? Ig it's the same thing...)
 
 - Used a weighted smooth sigmoid ensemble weighting. for maximal RAE.
+
+# Day 5
+
+- Tried training with attention embeddings, etc?
+
+# Day 6
+
+- Tried using Tabnet and other embeddings in an ablation study to see which embeddings might best boon RAE performance.
+- All embeddings sucked. Molenet embeddings + RDKIT + morgans did slightly the best on training set, but worse on test set (RAE `0.71)
+
+# Day 7
+
+- Tried using a feature to delimit the molecules that passed the counter assay and the molecules that did not. Used the full 4000 molecules tested instead of just the 2800 passing. But then I had to assume the blind test had no false positives (would all pass the counter-assay) since we don't really know.
+- Resulted in really bad performance (0.75 RAE)
+
+# Day 8
+
+- Tried using a naive GNN and an ensemble with the LGBM on RDKIT+MF.
+- Did ok, RAE of 0.68
+
+# Day 9
+- Trying to use 3d Chemprop features...
