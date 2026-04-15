@@ -64,3 +64,8 @@
 
 # Day 9
 - Trying to use 3d Chemprop features...but found that RDKIT + Morgans was better than any Chemprop 3d features on training set! Didn't submit anything...
+
+# Day 10
+- Found a discord user message:
+    `My activity submission is at 0.44 MAE range using chemprop+tabpfn ensembles and without using the single-dose and counter-screen data (yet) nor any PXR structural information.`
+- Want to recrete this approach and see if it actually does better than the RDKit descriptor + Morgan Fingerprint floor I've hit...
