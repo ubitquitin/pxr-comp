@@ -68,4 +68,16 @@
 # Day 10
 - Found a discord user message:
     `My activity submission is at 0.44 MAE range using chemprop+tabpfn ensembles and without using the single-dose and counter-screen data (yet) nor any PXR structural information.`
-- Want to recrete this approach and see if it actually does better than the RDKit descriptor + Morgan Fingerprint floor I've hit...
+- Replicated approach with Chemprop (message passing neural network) + LGBM (TabPFN failed due to API issues)
+- **Results:**
+    - Training CV RAE: **0.5555** (ensemble with 0.3 Chemprop + 0.7 LGBM weights)
+    - Test RAE: **0.62** ✅ (BEST PERFORMANCE YET!)
+    - Individual model CVs:
+        - Chemprop alone: 0.6391 RAE
+        - LGBM alone: 0.5772 RAE
+        - Ensemble: 0.5555 RAE
+- **Why this worked better despite similar training RAE:**
+    - **Neural network + Tree ensemble diversity**: Chemprop learns molecular representations via message passing (graph structure), while LGBM uses handcrafted features (RDKit descriptors + Morgan FPs). These capture different aspects of molecular structure.
+    - **Complementary error patterns**: Chemprop may overfit to specific graph motifs while LGBM captures global descriptor patterns. Their errors likely don't correlate, so averaging reduces overall error.
+    - **Better generalization**: The ensemble (0.3/0.7 weighting) suggests LGBM was more reliable, but Chemprop's 30% contribution still helped smooth predictions where LGBM was uncertain.
+    - **Full training data**: Used all ~4139 molecules (not just counter-screen passed), which may have provided better coverage of chemical space.
