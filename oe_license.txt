@@ -1,0 +1,210 @@
+################# ACADEMIC LICENSE ######################################
+#                                                                       #
+#   This file is a license for Cadence Design Systems, Inc. (Cadence).  #
+#   Any modifications to this file may invalidate the license.          #
+#                                                                       #
+#   The Laboratory of Patrick Walters                                   #
+#   OpenADMET                                                           #
+#                                                                       #
+#   Tue Apr 21 14:10:44 2026                                            #
+#########################################################################
+#PRODUCT: afitt
+#EXP_DATE: 2026 07 01
+#FEATURES: beta
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 2c87a00a440ef7374f1e90c7e50a5caf2825a48abcfdbb9bf8bd0ab9f0dc9314
+#PRODUCT: bioisostere
+#EXP_DATE: 2026 07 01
+#FEATURES: python
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 36de3f18335c7e305c5986a0184a8d05b21efe8532482bd024a94caa442b286b
+#PRODUCT: bioisosteretk
+#EXP_DATE: 2026 07 01
+#FEATURES: python
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: e11d21ad3238eae8cd3c30ae6975b239795ce26edd3a3059aefd5b2d4525197e
+#PRODUCT: docking
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 29131b982464049ba4b171db798e9c003c3b94c374ee7e71a715bce95731d856
+#PRODUCT: eon
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: ff77b6d9479e6942388386ad30d17b44ef690b7bef2278fef3771c3d32abc992
+#PRODUCT: eontk
+#EXP_DATE: 2026 07 01
+#FEATURES: python
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: b337e53e87cb5a8f3b62363f78c9bd31bfc95a92096e3a4df1cdb7461f69bc52
+#PRODUCT: fastrocs
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 61f12013af8323080cdd517718bdb9c18a5775389e5d9284b717fc95e0ee345d
+#PRODUCT: filter
+#EXP_DATE: 2026 07 01
+#FEATURES: toolkit;python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: e44798fb92148f91624e12534874413d844c1b4f2bfe90c12c8f38d3c4a3d847
+#PRODUCT: flynn
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 741d2c1ded9049c8373e69062a9ae0a211a375d788820743d6bb5741ebbcd8b1
+#PRODUCT: fred2
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: ccaeb50f0651a074d8be4872ec807d902a56357b3f67c9019c22776b512f7a02
+#PRODUCT: grapheme
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: f3ba08589c4ae946fb83803cd33ec9ee5dcf548d5be0a394230e0e0b9bc24ad5
+#PRODUCT: graphsim
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 9127d8406bf201b97e509e0eac8d18500ad474215618e636177af6bb62ce0c31
+#PRODUCT: iupac
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 6d44b56dabdf0f5c7ec628350f2270425406f241db3ca51246ee7b13f78934f8
+#PRODUCT: oechem
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 0cfdcbb14ede7413d1e47d3793f8a19867c225240426def9a38c51c6ab61580c
+#PRODUCT: oedepict
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: d37cff366a00ff5a84b5a7bed12bbc3cd4b1fe581e1ea2d7f3b18a02680d33b1
+#PRODUCT: oemedchem
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 6c71596fb5c453c986aa0ae26e4d8a872269f5f1a17bda5752f6c4b2b7751c43
+#PRODUCT: omega
+#EXP_DATE: 2026 07 01
+#FEATURES: gas-phase;toolkit;python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 7202b76c5104f6b76b80c0bffabcd8aec6d041f177ddd26b35af170bd4b6b2e3
+#PRODUCT: omega-db
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 4aca95c67b0c62b3d527c229e7ec0724fba5541f370a881cf06878d8412b1748
+#PRODUCT: picto
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 4db6b5e7c6193fc9dc8d7dd535a12331ea7620e214ba0096d26935850ddc5f7c
+#PRODUCT: pkadata
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: c339747ec51148e190c19d952fc78fab2a090bab71eb4198bee6a5048e6eb0b8
+#PRODUCT: posit
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: fb1e88d74eca5ec01e6f3f4338db37b1a7b19792d89de9368200bf94a23f6582
+#PRODUCT: quacpac
+#EXP_DATE: 2026 07 01
+#FEATURES: beta;python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 28c497cf9941dadb6b77f2f70c7ebb63934988bef1618d5b12dd3908b497b267
+#PRODUCT: rocs
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 1f7a1f9a736cd5eaadbe929b9cde316ec7cf6776d88856c274bc7a741e558448
+#PRODUCT: shape
+#EXP_DATE: 2026 07 01
+#FEATURES: molecules;grids;python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: f3b2f23500d44b6f5b224b53be719b32e66f844f296f2ca52f8c3e067d5a5e79
+#PRODUCT: sitehoppertk
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 53867e69591c524a1223bd8fec2713aaba17b2e25592f555ef0054f8f50a2706
+#PRODUCT: sitehopper
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 50ca80e01e8343d030d9e66f5528b82cff4bec1e60c1844b658f70ae805f126f
+#PRODUCT: spicoli
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 6e3a59e5c6fab50cab485ac5ca5b93fa94708ba51efa7b4b2eabdc5c9ebbb4dc
+#PRODUCT: sprucetk
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 41f0c2c7b4f7cff1e40629c51795836686d95b6dcb237bc8296707a11348ea81
+#PRODUCT: spruce
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: aefa4df9d448afc3eae9ed0375bce964b21c431475130747550fcaa2238e3120
+#PRODUCT: szmap
+#EXP_DATE: 2026 07 01
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: e3c5e53a54f6682886d98450a10673a5d012613c4e5b557441a94d8f51f7d840
+#PRODUCT: szmaptk
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: bdd8e12f25f35ef12ccbbdeadfaa41ab5fd3181c77ec445542fbd4a6c263e270
+#PRODUCT: szybki
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 0b538efee14432e08607be54f7ec6ecf3430822a11cd3266e91f6a16d916c981
+#PRODUCT: case
+#EXP_DATE: 2026 07 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 1aae13a2429256fc0fc6565bca60e8cbe7cbfdd2b08476e5faea240dcd40db56
+#PRODUCT: vida
+#EXP_DATE: 2026 07 01
+#FEATURES: script line
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 17a92722defda83e59e37a7fdbda6b08cea948f04dc5d088beff9e9ce334f313
+#PRODUCT: zap
+#EXP_DATE: 2026 07 01
+#FEATURES: basic toolkit;protein pka;perfect charge;python;java;clr
+#LICENSEE: The Laboratory of Patrick Walters
+#SITE: OpenADMET
+LICENSE_KEY: 7d5930b23a1aeedd8100099a4564660875cd2ecfa31105c2d8eb6b7d13554d20
+
